@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently Working Technology **JAVA, Spring Boot, Microservice, Docker Express, MongoDB, Kubernetes, Gitlab**
 
+- 🌱 I’m currently Learning **GenAI, LLM, RAG, AgenticAI, LANCHAIN**
+
 - 💬 Ask me about **JAVA,Spring Boot, Microservice, Docker, Kubernetes, Gitlab**
 
 <h3 align="left">Connect with me:</h3>
