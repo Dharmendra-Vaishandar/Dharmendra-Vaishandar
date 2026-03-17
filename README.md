@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LMS Project](https://github.com/Garvit-Rajpal/LMS_Project)
 
-- 🌱 I’m currently learning **JAVA, Spring Boot, Microservice, Docker Express, MongoDB, Kubernetes, Gitlab**
+- 🌱 I’m currently Working Technology **JAVA, Spring Boot, Microservice, Docker Express, MongoDB, Kubernetes, Gitlab**
 
 - 💬 Ask me about **JAVA,Spring Boot, Microservice, Docker, Kubernetes, Gitlab**
 
