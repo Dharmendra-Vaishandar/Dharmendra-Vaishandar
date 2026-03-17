@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmendra-vaishandar" alt="dharmendra-vaishandar" /></a> </p>
 
-- 🔭 I’m currently working on [LMS Project](https://github.com/Garvit-Rajpal/LMS_Project)
-
 - 🌱 I’m currently Working Technology **JAVA, Spring Boot, Microservice, Docker Express, MongoDB, Kubernetes, Gitlab**
 
 - 🌱 I’m currently Learning **GenAI, LLM, RAG, AgenticAI, LANCHAIN**
