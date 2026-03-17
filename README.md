@@ -26,8 +26,7 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> </a>
-<a href="https://microservices.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/network-topology.png" alt="microservices" width="40" height="40"/>
+<a href="https://microservices.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=workers" alt="microservices" width="40" height="40"/> </a>
 </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -36,7 +35,6 @@
 Cloud Computing Services - Amazon Web Services (AWS)
 Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.
  
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendra-vaishandar&show_icons=true&locale=en&layout=compact" alt="dharmendra-vaishandar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmendra-vaishandar&show_icons=true&locale=en" alt="dharmendra-vaishandar" /></p>
